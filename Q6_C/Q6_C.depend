@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505605306 source:c:\users\jzhao27\google drive\softwareprojects\leetcode\c\q6_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
