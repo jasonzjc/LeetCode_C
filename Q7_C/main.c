@@ -1,3 +1,15 @@
+//
+//  main.cpp
+//  LeetCode7
+//
+//  Created by Jeff Zhao on 09/13/17.
+//  Copyright © 2017 Jeff Zhao. All rights reserved.
+//
+//Reverse digits of an integer.
+//
+//Example1: x = 123, return 321
+//Example2: x = -123, return -321
+
 #include <stdio.h>
 #include <stdlib.h>
 

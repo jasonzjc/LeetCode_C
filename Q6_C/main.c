@@ -1,3 +1,10 @@
+//
+//  main.cpp
+//  PrimerGener
+//
+//  Created by Jeff Zhao on 09/16/17.
+//  Copyright © 2017 Jeff Zhao. All rights reserved.
+//
 // LeetCode 6 ZigZag Conversion
 // 09/16/2017
 
